@@ -36,7 +36,7 @@ EMOJI_DICT = {
     "nader": "🌪",
     "cloud face": "😶‍🌫️",
     "dookie": "💩",
-    "monkey":"🙉"
+    "monkey":"🙉",
     # Students can add more!
 }
 
