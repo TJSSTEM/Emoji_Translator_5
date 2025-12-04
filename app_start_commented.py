@@ -30,7 +30,7 @@ with st.expander("👉 How to use this app"):
 EMOJI_DICT = {
     "pregnant man": "🫃🏼",
     "angel baby":"👼🏿",
-    "liar:" "🤥",
+    "liar": "🤥",
     "alien": "👽",
     "bite lip": "🫦",
     "nader": "🌪",
