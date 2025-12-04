@@ -28,13 +28,13 @@ with st.expander("👉 How to use this app"):
 # Don't forget the comma after each line!
 #
 EMOJI_DICT = {
-    "pregnant man": "🫃🏼",
-    "angel baby":"👼🏿",
+    "pregnant": "🫃🏼",
+    "angel":"👼🏿",
     "liar": "🤥",
     "alien": "👽",
-    "bite lip": "🫦",
+    "lip": "🫦",
     "nader": "🌪",
-    "cloud face": "😶‍🌫️",
+    "cloud": "😶‍🌫️",
     "dookie": "💩",
     "monkey":"🙉",
     # Students can add more!
