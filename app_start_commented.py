@@ -70,7 +70,7 @@ EMOJI_DICT = {
     "sad": "😢",
     "cat": "🐱",
     "dog": "🐶",
-    "sun": "☀️",
+    "TransAlly": "🏳️‍⚧️",
     "coding": "💻",
     "win": "🏆",
     "booty": "🪎",
