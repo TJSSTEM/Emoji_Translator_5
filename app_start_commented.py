@@ -72,13 +72,7 @@ EMOJI_DICT = {
     "sun": "☀️",
     "coding": "💻",
     "win": "🏆",
-    "python": "🐍",
-    "fire": "🔥",
-    "weird": "👽",
-    "love": "🥰",
-    "frog": "🐸",
-
-    "cooked": "🍳",
+    "booty": "🪎",
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
 
 
