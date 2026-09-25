@@ -80,8 +80,8 @@ EMOJI_DICT = {
     "night": "🌆"  ,
     "trans" : "🏳️‍⚧️",
     "love" : "❤️",
-    "Verity" : "☺️",
-    "Awesome" : "🫃",
+    "verity" : "☺️",
+    "awesome" : "🫃",
 }
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS
