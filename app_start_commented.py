@@ -74,12 +74,11 @@ EMOJI_DICT = {
     "coding": "💻",
     "win": "🏆",
     "booty": "🪎",
-    # 👇 ADD YOUR NEW MAGIC WORDS HERE!
-"Clown" : "🤡",
-"YarHarFiddilyDee" : "🏴‍☠️",
-"Crow" : "🐦‍⬛",
-"night": "🌆"  ,
-    "TransAlly" :"🏳️‍⚧️",
+    "Clown" : "🤡",
+    "YarHarFiddilyDee" : "🏴‍☠️",
+    "Crow" : "🐦‍⬛",
+    "night": "🌆"  ,
+    "TransAlly" : "🏳️‍⚧️",
 }
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS
