@@ -64,8 +64,8 @@ with st.expander("👉 How to use this app"):
 #
 
 EMOJI_DICT = {
-    "love": "❤️",
-    "happy": "😊",
+    "alien": "👽",
+    "silly": "😝",
     "sad": "😢",
     "cat": "🐱",
     "dog": "🐶",
@@ -75,6 +75,8 @@ EMOJI_DICT = {
     "python": "🐍",
     "fire": "🔥",
     "weird": "👽",
+    "love": "🥰",
+    "frog": "🐸",
 
     "cooked": "🍳",
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
@@ -150,9 +152,9 @@ if output_sentence:
 #
 # Remove the # from ONE of them and run your app!
 #
- st.balloons()
+ #st.balloons()
 #
-# st.snow()
+st.snow()
 #
 # Which one do you like better? 🎈❄️
 
