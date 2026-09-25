@@ -78,9 +78,8 @@ EMOJI_DICT = {
 "Clown" : "🤡",
 "YarHarFiddilyDee" : "🏴‍☠️",
 "Crow" : "🐦‍⬛",
-
-}
-
+"night": "🌆"  ,
+    "TransAlly" :"🏳️‍⚧️",
 
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS
