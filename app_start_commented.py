@@ -76,7 +76,7 @@ EMOJI_DICT = {
     "fire": "🔥",
     "weird": "👽",
 
-    "is cooked frfr": "🍳"
+    "is cooked frfr": "🍳",
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
 
 
