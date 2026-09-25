@@ -78,7 +78,7 @@ EMOJI_DICT = {
     "YarHarFiddilyDee" : "🏴‍☠️",
     "Crow" : "🐦‍⬛",
     "night": "🌆"  ,
-    "TransAlly" : "🏳️‍⚧️",
+    "trans" : "🏳️‍⚧️",
 }
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS
