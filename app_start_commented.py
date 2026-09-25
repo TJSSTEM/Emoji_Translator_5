@@ -75,7 +75,8 @@ EMOJI_DICT = {
     "booty": "🪎",
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
 "Clown" : "🤡"
-
+"YarHarFiddilyDee" : "🏴‍☠️"
+Crow 🐦‍⬛
 
 }
 
