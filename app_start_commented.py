@@ -76,7 +76,7 @@ EMOJI_DICT = {
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
 "Clown" : "🤡"
 "YarHarFiddilyDee" : "🏴‍☠️"
-Crow 🐦‍⬛
+"Crow" : "🐦‍⬛"
 
 }
 
