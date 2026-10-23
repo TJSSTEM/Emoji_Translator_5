@@ -123,10 +123,10 @@ EMOJI_DICT = {
     "fire": "🔥",
     "angry": "👿",
     # 👇 ADD 3 NEW MAGIC WORDS HERE!
-      "jesus": "✝️"
-      "praying": "🙏🏻"
-       "bible": "🤲🏻"
-       "piggy": "🐷"
+      "jesus": "✝️",
+      "praying": "🙏🏻",
+       "bible": "🤲🏻",
+       "piggy": "🐷",
 }
 
 
