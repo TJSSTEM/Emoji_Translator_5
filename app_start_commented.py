@@ -1,4 +1,4 @@
-
+     
 # ============================================================
 # 🚀 MY EMOJI TRANSLATOR
 # A fun 10-minute Python + Streamlit activity!
@@ -22,7 +22,7 @@ import re
 # - Giving your app a funny name
 #
 # Example:
-# st.title("The Crazy Emoji Machine 🤪")
+# st.title("The cool lingo 🤪")
 
 
 st.title("My Emoji Translator 💬➡️😎")
@@ -120,9 +120,11 @@ EMOJI_DICT = {
     "win": "🏆",
     "python": "🐍",
     "fire": "🔥",
-
+    "angry": "👿",
     # 👇 ADD 3 NEW MAGIC WORDS HERE!
-
+    "scary": "👹",
+    "fart": "💨",
+    "rainbow": "🏳️‍🌈",
 
 
 }
@@ -163,7 +165,9 @@ funny_sentences = [
     "My happy cat loves python",
 
     # 👇 BONUS: ADD A FUNNY SENTENCE HERE!
-
+   "My 😊 🐱 loves 🐍"
+    "My 🐶 loves 💻"
+    "I 🏆 with my 🐱"
 ]
 
 
