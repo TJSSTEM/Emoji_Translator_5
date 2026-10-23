@@ -25,7 +25,7 @@ import re
 # st.title("The cool lingo 🤪")
 
 
-st.title("My it is cool to shart💬➡️😎")
+st.title("it is cool to dance💬➡️😎")
 
 st.write("Turn your words into emojis using Python! 🚀")
 
@@ -165,9 +165,9 @@ funny_sentences = [
     "My happy cat loves python",
 
     # 👇 BONUS: ADD A FUNNY SENTENCE HERE!
-   "My 😊 🐱 loves 🐍"
-    "My 🐶 loves 💻"
-    "I 🏆 with my 🐱"
+   "My friends are cats "
+    "My dad loves you"
+    "I lose with my dog"
 ]
 
 
