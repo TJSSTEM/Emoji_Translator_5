@@ -48,7 +48,8 @@ COLORS = {
     "💙 Blue": "#DCEEFF",
     "🩷 Pink": "#FFE0F0",
     "💚 Green": "#DFF8E5",
-    "💜 Purple": "#EDE0FF"
+    "💜 Purple": "#EDE0FF",
+    "💛 yellow": "#FFFF00",
 }
 
 st.markdown(
@@ -111,7 +112,7 @@ with st.expander("👉 How to use this app"):
 
 EMOJI_DICT = {
     "love": "❤️",
-    "happy": "😊",
+    "Halloween":"🎃",
     "sad": "😢",
     "cat": "🐱",
     "dog": "🐶",
@@ -122,12 +123,10 @@ EMOJI_DICT = {
     "fire": "🔥",
     "angry": "👿",
     # 👇 ADD 3 NEW MAGIC WORDS HERE!
-    "trans": "🏳️‍⚧️",
-    "gay": "🏳️‍🌈",
-    "transsymbol": "⚧️", 
-     "Bi": "⚤", 
-     "Gayrelationship": "⚣", 
-     "Lesbianrelationship": "🫈",
+      "jesus": "✝️"
+      "praying": "🙏🏻"
+       "bible": "🤲🏻"
+       "piggy": "🐷"
 }
 
 
@@ -156,11 +155,10 @@ st.markdown("---")
 
 st.subheader("🎲 Need a Funny Sentence?")
 
-funny_sentences = [
-    "My cat loves pizza",
+"funny_sentences ",
     "I love python and coding",
     "My dog is happy",
-    "The sun is on fire",
+    "landon loves FEET ",
     "I win with my cat",
     "My dog loves coding",
     "My happy cat loves python",
