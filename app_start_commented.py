@@ -122,11 +122,9 @@ EMOJI_DICT = {
     "fire": "🔥",
     "angry": "👿",
     # 👇 ADD 3 NEW MAGIC WORDS HERE!
-    "scary": "👹",
-    "fart": "💨",
-    "rainbow": "🏳️‍🌈",
-
-
+    "trans": "🏳️‍⚧️",
+    "gay": "🏳️‍🌈",
+    "transsymbol": "⚧️",      
 }
 
 
