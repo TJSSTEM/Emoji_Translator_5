@@ -41,7 +41,7 @@ st.subheader("🎨 Choose Your App's Color")
 
 theme = st.selectbox(
     "Pick your favorite color:",
-    ["💙 Blue", "🩷 Pink", "💚 Green", "💜 Purple"]
+    ["💙 Blue", "🩷 Pink", "💚 Green", "💜 Purple", "💛 yellow"]
 )
 
 COLORS = {
