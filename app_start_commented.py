@@ -124,7 +124,10 @@ EMOJI_DICT = {
     # 👇 ADD 3 NEW MAGIC WORDS HERE!
     "trans": "🏳️‍⚧️",
     "gay": "🏳️‍🌈",
-    "transsymbol": "⚧️",      
+    "transsymbol": "⚧️", 
+     "Bi": "⚤", 
+     "Gayrelationship": "⚣", 
+     "Lesbianrelationship": "🫈",
 }
 
 
