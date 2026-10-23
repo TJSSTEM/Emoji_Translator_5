@@ -165,9 +165,9 @@ funny_sentences = [
     "My happy cat loves python",
 
     # 👇 BONUS: ADD A FUNNY SENTENCE HERE!
-   "My friends are cats "
-    "My dad loves you"
-    "I lose with my dog"
+   "My friends are cats ",
+    "My dad loves you",
+    "I lose with my dog",
 ]
 
 
